@@ -264,10 +264,10 @@ MonoBehaviour:
     volume: 1
     pitchVariance: 0.05
   hitSfx:
-    clip: {fileID: 8300000, guid: 61e37d32b9097114e9d5f6743f937bad, type: 3}
+    clip: {fileID: 8300000, guid: fa9f5c3e587543c42a0de9cfb7862ec7, type: 3}
     volume: 1
     pitchVariance: 0.05
   deathSfx:
-    clip: {fileID: 8300000, guid: 0eba511020b5d1f468d6085b6e39c9ee, type: 3}
+    clip: {fileID: 8300000, guid: e85e7ca96ffe80d4797876910a3462ec, type: 3}
     volume: 1
     pitchVariance: 0.05
